@@ -1,11 +1,11 @@
-# Power Iteration 
+# Power Method and Rayleigh Quotient for Eigenvector/Eigenvalue Approximation
 <!-- This is the "Title of the contribution" that was approved during the Community Contribution Review Process --> 
 
 [![View <File Exchange Title> on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/####-file-exchange-title) [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=owner/title&project=title.prj&file=example.mlx) 
 <!-- Add the "File Exchange" icon to the README if this repo also appears on File Exchange via the "Connect to GitHub" feature --> 
 <!-- Add the "Open in MATLAB Online" icon to the README to open a particular file on MATLAB Online --> 
 
-Add a brief description about your repo that is memorable and explains what your repo does.  The brief description should be consistent with how you answered Question 5, “Description” in the Proposal Form.
+This curriculum module explains how the power method (otherwise known as power iteration) works with the help of an interactive MATLAB&reg; live script. The algorithm is analyzed step-by-step with output display and proper visualization. The pros and cons are investigated in terms of speed and accuracy and the module ends with an assignment for further student experimentation. The script can be used by professors teaching linear algebra or students that want to explore and understand how the algorithm works.
 
 <!--- If your project includes a visualation or any images or an App please include a screenshot in this README --->
 
@@ -21,16 +21,15 @@ Please remember to delete all template related text that you are not using withi
 
 ## Setup 
 To Run:
-1. Step 1
-2. Step 2
+1. Download the Power_Iteration.mlx file
+2. Open the file using MATLAB
 
 Additional information about set up
 
 ### MathWorks Products (https://www.mathworks.com)
 
-Requires MATLAB release R#### or newer
-- [Product1](https://url-to-product1)
-- [Product1](https://url-to-product1)
+Requires MATLAB release R2024a or newer
+- [MATLAB](https://www.mathworks.com/products/matlab.html)
 
 ### 3rd Party Products:
 3p:
