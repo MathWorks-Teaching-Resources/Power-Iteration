@@ -25,7 +25,7 @@ Please remember to delete all template related text that you are not using withi
 
 The module requires a basic understanding of matrix operations, eigenvalues/eigenvectors, characteristic polynomial and diagonalization.
 
-Minimal knowledge and fluency with MATLAB is required. If you want to improve your MATLAB knowledge, [MATLAB Onramp](https://matlabacademy.mathworks.com/details/matlab-onramp/gettingstarted) is a free two-hour introductory tutorial that teaches the essentials of MATLAB.
+Minimal fluency with MATLAB is required. If you want to improve your MATLAB knowledge, [MATLAB Onramp](https://matlabacademy.mathworks.com/details/matlab-onramp/gettingstarted) is a free two-hour introductory tutorial that teaches the essentials of MATLAB.
 
 ## Setup 
 To Run:
